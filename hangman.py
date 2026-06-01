@@ -2,7 +2,7 @@ secret_word = input("Enter the secret word : ")
 guesses = 5
 won = False
 while guesses >= 0:
-    user_guess = input("Guess the word : ")
+    user_guess = input("Guess the word : ").lower()
     if user_guess == secret_word:
         print(user_guess)
         won = True
