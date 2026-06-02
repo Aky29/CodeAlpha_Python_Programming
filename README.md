@@ -23,6 +23,7 @@ Aky29-CodeAlpha_Python_Programming/
 ```
 
 🛠️ Project Summaries
+
 🎮 Task 1: Word Guessing Game (Hangman Style)
 Description: An interactive terminal game where a user attempts to guess a secret word within 5 attempts.
 
@@ -38,12 +39,14 @@ Key Concepts Used: Dictionary mapping, persistent file manipulation, CSV Reading
 
 How It Works: Prompts users for stock tickers and volumes, computes cost calculations on the fly, aggregates records into a structured list, and flushes them safely into an Investment.csv file upon completion.
 
+
 📧 Task 3: Automated Email Extractor
 Description: A text-parsing utility that scans raw inputs to find and extract all valid email addresses instantly.
 
 Key Concepts Used: Regular Expressions (re module), data collection, and string parsing.
 
 How It Works: Uses a rigorous regex pattern ([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}) to isolate valid emails from text blocks and outputs them in a clean, user-friendly listed layout.
+
 
 🚀 How to Run the Code Locally
 Clone the Repository:
