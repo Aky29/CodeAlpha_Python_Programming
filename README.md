@@ -59,7 +59,9 @@ Navigate into the specific task folder and run the python file. For example, to 
 Bash
 cd Task_3_Stock_Tracker
 python stock_tracker.py
+
 👤 Intern Details
+
 Name: Anish Kumar Yadav
 
 Student ID: CA/DF1/108396
